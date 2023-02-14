@@ -1,0 +1,12 @@
+.rodape {
+    background: var(--azul);
+    padding: 24px;
+}
+
+.rodape__texto {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: var(--font-secundaria);
+    color: var(--preto);
+    font-weight: 400;
+}
